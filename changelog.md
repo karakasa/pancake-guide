@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.8.1.0 - 2019-06-09
+
+### Fixed
+
+* Fixed a problem which may crash Rhino/Grasshopper on Mac
+
+### Added
+
+* Now you can assign keyboard shortcuts to many Pancake functions \(in Grasshopper Settings -&gt; Interface\).
+
 ## 1.8.0.0 - 2019-05-19
 
 ### Added
