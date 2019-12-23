@@ -1,5 +1,32 @@
 # Changelog
 
+## 2.0.0.0 - 2019-12-23
+
+### Added
+
+* **Pages in this manual will be ready soon. Read the new example files to see how new features work.**
+* \[Param Access Overlay\] You may clearly see the access of a parameter, whether it is item, list or tree.
+* \[Non-UI Export\] Non-UI Export is added for IGES, DAE, KMZ format. This feature requires Rhino 6 or higher version. These export don't rely on Rhino's user interface, therefore they are more reliable.
+* \[Non-UI Export\] Text export is supported. You may use this feature to export any string, including Json.
+* \[Quantity\] Added the capability to manipulate quantities, which are sets of amount and units. This is aimed for smoother engineering parametric practice.
+* \[Associative Array\] Associative array is a set of values and optional name. It is treated as one single element when interacted with almost all other components. It may have a hierarchical structure. You may import/export data from/to various formats.
+* \[Json\] Json read/write is now supported.
+* \[Categorize\] You may now categorize data or count unique data easily.
+* \[Default Value\] This component helps detecting null value as cluster input and replace it with default value.
+* \[Definition Path\] This component yields the directory of current definition, so that you may reference external resources more easily.
+
+## 1.9.1.0 - 2019-11-21
+
+### Fixed
+
+* "Export To STL" component will try to detect issues that prevent successful export
+* Fixed a bug that may crash Mac Rhino
+
+### Added
+
+* Examples of several Export to STL usage are provided
+* Capability to fully disable Extended Context Menu
+
 ## 1.8.1.0 - 2019-06-09
 
 ### Fixed

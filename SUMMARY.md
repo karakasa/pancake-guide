@@ -6,7 +6,7 @@
 * [Troubleshoot](troubleshoot.md)
 * [Contact](contact.md)
 
-## Core Features
+## Core Features <a id="features"></a>
 
 * [Cluster Operations](features/cluster-operations/README.md)
   * [Merge Identical Inputs](features/cluster-operations/merge-identical-inputs.md)
