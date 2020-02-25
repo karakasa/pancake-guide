@@ -1,5 +1,26 @@
 # Changelog
 
+## 2.2.1.0 - 2020-02-20
+
+### Added
+
+* ImportFrom and ImportToDoc, that supports more general file import
+* Example of general export, in line with the STL export example
+
+### Changed
+
+* Ribbon layout and menu, to reduce information overload
+* Portability Report will include components exclusive to Rhino WIP
+* Export components are better at dealing with inputs from Elefront, Human and InstanceManager
+* Export3DM will copy layer styles if a layer with same name exists in the current Rhino document.
+
+## 2.1.0.0 - 2019-12-25
+
+### Added
+
+* Support for geometric metadata
+* Key-value-based associative array operations
+
 ## 2.0.0.0 - 2019-12-23
 
 ### Added
