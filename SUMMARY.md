@@ -2,6 +2,7 @@
 
 * [Welcome!](README.md)
 * [Download](http://www.food4rhino.com/app/pancake)
+* [License](license.md)
 * [Privacy Statement](privacy-statement.md)
 * [Changelog](changelog.md)
 * [Troubleshoot](troubleshoot.md)

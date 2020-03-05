@@ -12,11 +12,9 @@ This site is an online manual of Pancake. Due to the rapid iteration nature, the
 
 ### Is Pancake free?
 
-Absolutely. Pancake is a freeware licensed for both non-commercial and commercial use. Feel free to contact the developer. However, support might be limited. We provide paid customizable version.
+Absolutely. Pancake is a freeware licensed for both non-commercial and commercial use. Pancake's support is also free, feel free to drop us a message! However, the response may not be very timely.
 
-### Why doesn't it work?
-
-Reason varies. First, it requires at least .NET framework 4.5, which is shipped with Rhinoceros 6 but not with Rhino 5. If you encounter "load failure" messages, check the .NET framework downloader [here](https://www.microsoft.com/en-us/download/details.aspx?id=30653). For other problems, please visit [Troubleshoot](troubleshoot.md) page.
+Still, Pancake is proprietary software. It is licensed for free use to both non-commercial and commercial uses. For other uses, please refer to [License](license.md).
 
 ### Legal disclaimer
 
