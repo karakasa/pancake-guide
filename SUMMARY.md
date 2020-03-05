@@ -32,8 +32,5 @@
 ## Miscellaneous
 
 * [Safe Mode](miscellaneous/safe-mode.md)
-
-## Tech Details
-
-* [Differences between Windows and Mac version](tech-details/differences-between-windows-and-mac-version.md)
+* [Differences between Windows and Mac version](miscellaneous/differences-between-windows-and-mac-version.md)
 

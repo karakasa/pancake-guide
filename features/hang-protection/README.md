@@ -1,7 +1,7 @@
 # Hang Protection
 
 {% hint style="info" %}
-This feature is unavailable on Mac. See [detailed information](../../tech-details/differences-between-windows-and-mac-version.md#hang-protection).
+This feature is unavailable on Mac. See [detailed information](../../miscellaneous/differences-between-windows-and-mac-version.md#hang-protection).
 {% endhint %}
 
 Regardless of the autosave setting, Pancake will do an emergency save whenever Grasshopper loses responsiveness for too long. Remember the time when you wired a buggy connection to make Grasshopper hang forever and didn't save your file? That is past.
