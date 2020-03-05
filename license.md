@@ -12,5 +12,5 @@ Pancake is proprietary software. In the following text, if not explicitly stated
   * End users can get free support from us, but without a guarantee in response time
 * Users may offer paid/unpaid services related to Pancake, such as support and tutorial, given that:
   * The service is priced fairly \(if paid\) and is not deceptive nor misleading. Otherwise we may explicitly disallow you from providing any service related to Pancake.
-* Users **should not** use Pancake as a library in another product, for any purposes, unless have received consent from us.
+* Users **should not** use/embed/link Pancake as a library in another product, for any purposes, unless have received consent from us.
 
