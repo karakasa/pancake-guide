@@ -27,11 +27,7 @@
 
 ## Components
 
-* [Export As](components/export-as.md)
-* [Export to 3DM](components/export-to-3dm.md)
-* [Export to STL](components/export-to-stl.md)
-* [Filepath Series](components/filename-series.md)
-* [True Only Button](components/true-only-button.md)
+* [Where does the manual go?](where-does-the-manual-go.md)
 
 ## Miscellaneous
 

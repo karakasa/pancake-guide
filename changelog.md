@@ -63,7 +63,7 @@
 ### Added
 
 * \[Highlight manager\] Changes can be highlighted after an operation, such as [Internalizing Geometry](features/internalize-geometry.md), is done. You can switch the feature by "Settings"/"Highlight Changes".
-* \[[Export to 3DM](components/export-to-3dm.md)\] Provides a reliable method to export geometries to an external 3DM file. This component doesn't rely on Rhino's user interface, therefore can be safely used in conjuction of any other procedure, compared to the [Export As](components/export-as.md) component.
+* \[[Export to 3DM]()\] Provides a reliable method to export geometries to an external 3DM file. This component doesn't rely on Rhino's user interface, therefore can be safely used in conjuction of any other procedure, compared to the [Export As]() component.
 * \[Portability Check\] The feature will also check for major [styling issues](features/portability-check.md#styling-check).
 
 ### Changed
@@ -125,7 +125,7 @@
 ### Added
 
 * \[Downgrade to R5\] ["Offline" downgrader](features/downgrade-components/downgrade-components-rhino-5.md). You can downgrade a file in Rhino 5
-* [Filepath Series](components/filename-series.md)
+* [Filepath Series]()
 
 ### Changed
 
@@ -136,7 +136,7 @@
 ### Added
 
 * \[Export As\] Introduced a new compatible mode. It should solve some deadlock problems
-* \[Export As\] New guidelines for export configuration \(see [here](components/export-as.md#important-notice-a-k-a-why-my-file-is-exported-with-wrong-options)\)
+* \[Export As\] New guidelines for export configuration \(see [here]()\)
 
 ### Fixed
 
@@ -202,12 +202,12 @@
 
 ### Added
 
-* [Export As](components/export-as.md): directly export GH geometries to any format Rhino supports, with layer information \(if applicable\)
+* [Export As](): directly export GH geometries to any format Rhino supports, with layer information \(if applicable\)
 * \[Internalize Geometry\] Added a less destructive mode.
 
 ### Fixed
 
-* \[True-only button\] Now the appearance is refreshed correctly. And the component no longer always evaluates `True` \(see [behavior](components/true-only-button.md#the-exact-behavior-of-true-only-button-as-of-1-3-0-0) section for more information\).
+* \[True-only button\] Now the appearance is refreshed correctly. And the component no longer always evaluates `True` \(see [behavior]() section for more information\).
 * \[Internalize Geometry\] Fixed a bug that prevents the feature from working.
 
 ### Changed
@@ -221,7 +221,7 @@
 
 * [File block monitor](features/file-block-monitor.md): tell you when you need to unblock newly-installed plugins
 * [Safe mode](miscellaneous/safe-mode.md)
-* [True-only button](components/true-only-button.md)
+* [True-only button]()
 * Wait Until component
 * Distributed computing \(unavailable on Food4Rhino\): A framework that introduces multi-computer computation in Grasshopper environment. It can faciliate demanding jobs \(such as solar analysis\), by delegating tasks to different PCs.
 
